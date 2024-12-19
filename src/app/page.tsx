@@ -86,7 +86,7 @@ export default function Home() {
             Deployments <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Instantly deploy your Next.js site to a shareable URL with Vercell.
           </p>
         </a>
       </div>
